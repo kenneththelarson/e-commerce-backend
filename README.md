@@ -22,7 +22,7 @@ An E-Commerce backend
 
 ## Usage
 
-Click here to view demo video: [Demo](https://drive.google.com/file/d/1ZHd_C_G1bkFPLqnel4bWMv-EeGAKIJwB/view?usp=sharing)
+Click here to view demo video: [Demo](https://drive.google.com/file/d/11Se87dkQ2gPv08Uoe5uAJEjhLeZ6HYFb/view?usp=sharing)
 
 - Run "npm start" to start the server
 - Use Insomnia Core to test the api endpoints
